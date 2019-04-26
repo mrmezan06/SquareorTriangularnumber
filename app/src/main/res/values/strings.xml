@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Square or Triangular number</string>
+    <string name="hint">Input a number to check the number is triangular or square or both or not</string>
+    <string name="title">Number Shape</string>
+    <string name="e_hint">Insert a number to check</string>
+    <string name="check">Check</string>
+</resources>
